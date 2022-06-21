@@ -1,0 +1,10 @@
+^D:\GIT PROJECTS\HYSTERIADMG\RAGDOLLAPP\VENDOR\BULLET3\EXAMPLES\HELLOWORLD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3" "-BD:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/build3" --check-stamp-file "D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/build3/examples/HelloWorld/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

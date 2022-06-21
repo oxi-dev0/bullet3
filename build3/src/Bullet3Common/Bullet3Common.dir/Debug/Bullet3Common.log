@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/src/Bullet3Common/CMakeLists.txt
+  b3AlignedAllocator.cpp
+  b3Vector3.cpp
+  b3Logging.cpp
+  Generating Code...
+  Bullet3Common.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Debug\Bullet3Common_Debug.lib

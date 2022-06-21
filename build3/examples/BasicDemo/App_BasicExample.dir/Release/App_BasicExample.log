@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/examples/BasicDemo/CMakeLists.txt
+  BasicExample.cpp
+  main.cpp
+  Generating Code...
+  App_BasicExample.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\examples\BasicDemo\Release\App_BasicExample.exe

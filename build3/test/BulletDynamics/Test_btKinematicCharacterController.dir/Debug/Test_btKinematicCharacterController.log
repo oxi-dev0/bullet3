@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/test/BulletDynamics/CMakeLists.txt
+  test_btKinematicCharacterController.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  Test_btKinematicCharacterController.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\test\BulletDynamics\Debug\Test_btKinematicCharacterController.exe

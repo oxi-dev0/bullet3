@@ -1,0 +1,10 @@
+^D:\GIT PROJECTS\HYSTERIADMG\RAGDOLLAPP\VENDOR\BULLET3\BUILD3\CMAKEFILES\D738CDEC0D25780591FCC0DE9DF8D636\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3" "-BD:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/build3" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/build3/BULLET_PHYSICS.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

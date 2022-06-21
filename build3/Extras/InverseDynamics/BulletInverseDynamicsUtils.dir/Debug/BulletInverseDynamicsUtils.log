@@ -1,0 +1,15 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/Extras/InverseDynamics/CMakeLists.txt
+  CloneTreeCreator.cpp
+  CoilCreator.cpp
+  MultiBodyTreeCreator.cpp
+  btMultiBodyTreeCreator.cpp
+  DillCreator.cpp
+  MultiBodyTreeDebugGraph.cpp
+  invdyn_bullet_comparison.cpp
+  IDRandomUtil.cpp
+  RandomTreeCreator.cpp
+  SimpleTreeCreator.cpp
+  MultiBodyNameMap.cpp
+  User2InternalIndex.cpp
+  Generating Code...
+  BulletInverseDynamicsUtils.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Debug\BulletInverseDynamicsUtils_Debug.lib

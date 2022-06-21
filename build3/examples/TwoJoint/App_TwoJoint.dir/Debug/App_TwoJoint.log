@@ -1,0 +1,131 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/examples/TwoJoint/CMakeLists.txt
+  TwoJointMain.cpp
+  collisionFilterPlugin.cpp
+  pdControlPlugin.cpp
+  b3RobotSimulatorClientAPI_NoDirect.cpp
+  IKTrajectoryHelper.cpp
+  InProcessExampleBrowser.cpp
+  tinyRendererPlugin.cpp
+  TinyRendererVisualShapeConverter.cpp
+  geometry.cpp
+  model.cpp
+  tgaimage.cpp
+  our_gl.cpp
+  TinyRenderer.cpp
+  InProcessMemory.cpp
+  PhysicsClient.cpp
+  PhysicsServer.cpp
+  GraphicsServerExample.cpp
+  GraphicsClientExample.cpp
+  RemoteGUIHelper.cpp
+  RemoteGUIHelperTCP.cpp
+  Generating Code...
+  Compiling...
+  PhysicsServerExample.cpp
+  PhysicsServerExampleBullet2.cpp
+  SharedMemoryInProcessPhysicsC_API.cpp
+  PhysicsServerSharedMemory.cpp
+  PhysicsDirect.cpp
+  PhysicsDirectC_API.cpp
+  PhysicsServerCommandProcessor.cpp
+  b3PluginManager.cpp
+  PhysicsClientSharedMemory.cpp
+  PhysicsClientSharedMemory_C_API.cpp
+  PhysicsClientC_API.cpp
+  Win32SharedMemory.cpp
+  PosixSharedMemory.cpp
+  b3ResourcePath.cpp
+  RobotLoggingUtil.cpp
+  tinyxml2.cpp
+  tiny_obj_loader.cpp
+  stb_image.cpp
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(220,9): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(228,17): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(268,9): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(290,17): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(524,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(601,10): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(628,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1643,43): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1680,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1707,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2851,43): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2984,47): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2990,64): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3001,30): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3003,23): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3014,46): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3058,14): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3062,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3085,19): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3092,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3110,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3164,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3380,24): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3391,28): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3396,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3577,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3581,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3589,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3597,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3610,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3627,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3631,19): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3795,26): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3824,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3835,25): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3836,33): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3853,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3874,29): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3894,29): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3906,16): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3917,33): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3944,24): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3945,32): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4177,23): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4182,31): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4188,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4202,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4233,27): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4243,28): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4262,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4299,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4336,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4458,10): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4468,21): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4473,39): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4477,39): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4537,12): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+  LoadMeshFromCollada.cpp
+  LoadMeshFromObj.cpp
+  Generating Code...
+  Compiling...
+  Wavefront2GLInstanceGraphicsShape.cpp
+  BulletMJCFImporter.cpp
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.cpp(1450,54): warning C4804: '>': unsafe use of type 'bool' in operation
+  BulletUrdfImporter.cpp
+  MyMultiBodyCreator.cpp
+  URDF2Bullet.cpp
+  UrdfParser.cpp
+  urdfStringSplit.cpp
+  b3ImportMeshUtility.cpp
+  b3PosixThreadSupport.cpp
+  b3Win32ThreadSupport.cpp
+  b3ThreadSupportInterface.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+     Creating library D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/build3/examples/TwoJoint/Debug/App_TwoJoint_d.lib and object D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/build3/examples/TwoJoint/Debug/App_TwoJoint_d.exp
+RemoteGUIHelperTCP.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl CSimpleSocket::Initialize(void)" (?Initialize@CSimpleSocket@@UEAA_NXZ)
+RemoteGUIHelperTCP.obj : error LNK2019: unresolved external symbol "public: virtual bool __cdecl CSimpleSocket::Close(void)" (?Close@CSimpleSocket@@UEAA_NXZ) referenced in function "public: virtual __cdecl CActiveSocket::~CActiveSocket(void)" (??1CActiveSocket@@UEAA@XZ)
+RemoteGUIHelperTCP.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl CSimpleSocket::Shutdown(enum CSimpleSocket::CShutdownMode)" (?Shutdown@CSimpleSocket@@UEAA_NW4CShutdownMode@1@@Z)
+RemoteGUIHelperTCP.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl CSimpleSocket::Select(int,int)" (?Select@CSimpleSocket@@UEAA_NHH@Z)
+RemoteGUIHelperTCP.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl CSimpleSocket::Receive(int,unsigned char *)" (?Receive@CSimpleSocket@@UEAAHHPEAE@Z)
+RemoteGUIHelperTCP.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl CSimpleSocket::Send(unsigned char const *,unsigned __int64)" (?Send@CSimpleSocket@@UEAAHPEBE_K@Z)
+RemoteGUIHelperTCP.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl CSimpleSocket::Send(struct iovec const *,int)" (?Send@CSimpleSocket@@UEAAHPEBUiovec@@H@Z)
+RemoteGUIHelperTCP.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl CSimpleSocket::SendFile(int,int,long *,int)" (?SendFile@CSimpleSocket@@UEAAHHHPEAJH@Z)
+RemoteGUIHelperTCP.obj : error LNK2019: unresolved external symbol "public: bool __cdecl CSimpleSocket::SetBlocking(void)" (?SetBlocking@CSimpleSocket@@QEAA_NXZ) referenced in function "public: bool __cdecl RemoteGUIHelperTCPInternalData::connect(void)" (?connect@RemoteGUIHelperTCPInternalData@@QEAA_NXZ)
+RemoteGUIHelperTCP.obj : error LNK2019: unresolved external symbol "public: bool __cdecl CSimpleSocket::SetReceiveTimeout(int,int)" (?SetReceiveTimeout@CSimpleSocket@@QEAA_NHH@Z) referenced in function "public: bool __cdecl RemoteGUIHelperTCPInternalData::connect(void)" (?connect@RemoteGUIHelperTCPInternalData@@QEAA_NXZ)
+RemoteGUIHelperTCP.obj : error LNK2019: unresolved external symbol "public: bool __cdecl CSimpleSocket::SetSendTimeout(int,int)" (?SetSendTimeout@CSimpleSocket@@QEAA_NHH@Z) referenced in function "public: bool __cdecl RemoteGUIHelperTCPInternalData::connect(void)" (?connect@RemoteGUIHelperTCPInternalData@@QEAA_NXZ)
+RemoteGUIHelperTCP.obj : error LNK2019: unresolved external symbol "public: __cdecl CActiveSocket::CActiveSocket(enum CSimpleSocket::CSocketType)" (??0CActiveSocket@@QEAA@W4CSocketType@CSimpleSocket@@@Z) referenced in function "public: __cdecl RemoteGUIHelperTCPInternalData::RemoteGUIHelperTCPInternalData(char const *,int)" (??0RemoteGUIHelperTCPInternalData@@QEAA@PEBDH@Z)
+RemoteGUIHelperTCP.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl CActiveSocket::Open(char const *,unsigned short)" (?Open@CActiveSocket@@UEAA_NPEBDG@Z)
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\examples\TwoJoint\Debug\App_TwoJoint_d.exe : fatal error LNK1120: 13 unresolved externals

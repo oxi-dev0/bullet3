@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/Extras/HACD/CMakeLists.txt
+  hacdGraph.cpp
+  hacdHACD.cpp
+  hacdICHull.cpp
+  hacdManifoldMesh.cpp
+  Generating Code...
+  HACD.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Debug\HACD_Debug.lib

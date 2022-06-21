@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/src/Bullet3Geometry/CMakeLists.txt
+  b3ConvexHullComputer.cpp
+  b3GeometryUtil.cpp
+  Generating Code...
+  Bullet3Geometry.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Release\Bullet3Geometry.lib

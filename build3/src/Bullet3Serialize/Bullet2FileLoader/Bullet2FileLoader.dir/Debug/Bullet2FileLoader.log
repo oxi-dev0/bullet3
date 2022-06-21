@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/src/Bullet3Serialize/Bullet2FileLoader/CMakeLists.txt
+  b3BulletFile.cpp
+  b3Chunk.cpp
+  b3DNA.cpp
+  b3File.cpp
+  b3Serializer.cpp
+  Generating Code...
+  Bullet2FileLoader.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Debug\Bullet2FileLoader_Debug.lib

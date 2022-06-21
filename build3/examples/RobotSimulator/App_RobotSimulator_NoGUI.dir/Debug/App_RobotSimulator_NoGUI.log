@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/examples/RobotSimulator/CMakeLists.txt
+  RobotSimulatorMain.cpp
+  MinitaurSetup.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+LINK : fatal error LNK1181: cannot open input file 'BulletRobotics.lib'

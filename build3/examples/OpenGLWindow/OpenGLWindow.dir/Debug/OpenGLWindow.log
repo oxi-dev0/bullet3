@@ -1,0 +1,21 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/examples/OpenGLWindow/CMakeLists.txt
+  gl.c
+  Win32OpenGLWindow.cpp
+  Win32Window.cpp
+  EGLOpenGLWindow.cpp
+  GLFWOpenGLWindow.cpp
+  GLInstancingRenderer.cpp
+  GLPrimitiveRenderer.cpp
+  GLRenderToTexture.cpp
+  LoadShader.cpp
+  OpenSans.cpp
+  SimpleCamera.cpp
+  SimpleOpenGL2App.cpp
+  SimpleOpenGL2Renderer.cpp
+  SimpleOpenGL3App.cpp
+  TwFonts.cpp
+  fontstash.cpp
+  opengl_fontstashcallbacks.cpp
+  stb_image_write.cpp
+  Generating Code...
+  OpenGLWindow.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Debug\OpenGLWindow_Debug.lib

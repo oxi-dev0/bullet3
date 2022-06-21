@@ -1,0 +1,26 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/src/BulletSoftBody/CMakeLists.txt
+  btSoftBody.cpp
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  btSoftBodyHelpers.cpp
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  btSoftRigidCollisionAlgorithm.cpp
+  btSoftRigidDynamicsWorld.cpp
+  btSoftMultiBodyDynamicsWorld.cpp
+  btSoftSoftCollisionAlgorithm.cpp
+  btDefaultSoftBodySolver.cpp
+  btDeformableBackwardEulerObjective.cpp
+  btDeformableBodySolver.cpp
+  btDeformableMultiBodyConstraintSolver.cpp
+  btDeformableContactProjection.cpp
+  btDeformableMultiBodyDynamicsWorld.cpp
+  btDeformableContactConstraint.cpp
+  poly34.cpp
+  btReducedDeformableBody.cpp
+  btReducedDeformableBodyHelpers.cpp
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\src\BulletSoftBody\BulletReducedDeformableBody\btReducedDeformableBodyHelpers.cpp(191,20): warning C4018: '<': signed/unsigned mismatch
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\src\BulletSoftBody\BulletReducedDeformableBody\btReducedDeformableBodyHelpers.cpp(193,21): warning C4018: '<': signed/unsigned mismatch
+  btReducedDeformableBodySolver.cpp
+  btReducedDeformableContactConstraint.cpp
+  Generating Code...
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\src\BulletSoftBody\poly34.cpp(432): warning C4756: overflow in constant arithmetic
+  BulletSoftBody.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Debug\BulletSoftBody_Debug.lib

@@ -1,0 +1,84 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/test/InverseDynamics/CMakeLists.txt
+  test_invdyn_bullet.cpp
+  b3ResourcePath.cpp
+  MyMultiBodyCreator.cpp
+  BulletUrdfImporter.cpp
+  urdfStringSplit.cpp
+  UrdfParser.cpp
+  URDF2Bullet.cpp
+  b3ImportMeshUtility.cpp
+  stb_image.cpp
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(220,9): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(228,17): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(268,9): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(290,17): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(524,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(601,10): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(628,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1643,43): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1680,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1707,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2851,43): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2984,47): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2990,64): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3001,30): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3003,23): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3014,46): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3058,14): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3062,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3085,19): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3092,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3110,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3164,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3380,24): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3391,28): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3396,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3577,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3581,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3589,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3597,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3610,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3627,10): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3631,19): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3795,26): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3824,11): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3835,25): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3836,33): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3853,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3874,29): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3894,29): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3906,16): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3917,33): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3944,24): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3945,32): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4177,23): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4182,31): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4188,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4202,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4233,27): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4243,28): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4262,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4299,13): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4336,12): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4458,10): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4468,21): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4473,39): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4477,39): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4537,12): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+  b3Clock.cpp
+  btBulletWorldImporter.cpp
+  btWorldImporter.cpp
+  bChunk.cpp
+  bFile.cpp
+  bDNA.cpp
+  btBulletFile.cpp
+  Wavefront2GLInstanceGraphicsShape.cpp
+  LoadMeshFromObj.cpp
+  LoadMeshFromCollada.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+  Compiling...
+  tinyxml2.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  Test_BulletInverseForwardDynamics.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\test\InverseDynamics\Debug\Test_BulletInverseForwardDynamics.exe

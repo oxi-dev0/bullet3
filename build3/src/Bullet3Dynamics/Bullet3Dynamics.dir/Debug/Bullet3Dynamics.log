@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/src/Bullet3Dynamics/CMakeLists.txt
+  b3CpuRigidBodyPipeline.cpp
+  b3FixedConstraint.cpp
+  b3Generic6DofConstraint.cpp
+  b3PgsJacobiSolver.cpp
+  b3Point2PointConstraint.cpp
+  b3TypedConstraint.cpp
+  Generating Code...
+  Bullet3Dynamics.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Debug\Bullet3Dynamics_Debug.lib

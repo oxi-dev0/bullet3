@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/src/BulletInverseDynamics/CMakeLists.txt
+  IDMath.cpp
+  MultiBodyTree.cpp
+  MultiBodyTreeInitCache.cpp
+  MultiBodyTreeImpl.cpp
+  Generating Code...
+  BulletInverseDynamics.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Release\BulletInverseDynamics.lib

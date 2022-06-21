@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\examples\BasicDemo\Release\AppBasicExampleGui.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\examples\BasicDemo\Release\App_BasicExample.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\examples\ExampleBrowser\Release\App_ExampleBrowser.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\examples\HelloWorld\Release\App_HelloWorld.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\examples\SharedMemory\Release\App_PhysicsServer_SharedMemory.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\examples\SharedMemory\Release\App_PhysicsServer_SharedMemory_GUI.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\Extras\obj2sdf\Release\App_obj2sdf.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\test\BulletDynamics\pendulum\Release\Test_BulletDynamics.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\test\InverseDynamics\Release\Test_BulletInverseDynamics.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\test\InverseDynamics\Release\Test_BulletInverseDynamicsJacobian.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\test\InverseDynamics\Release\Test_BulletInverseForwardDynamics.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\test\collision\Release\Test_Collision.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\test\SharedMemory\Release\Test_PhysicsClientServer.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\test\BulletDynamics\Release\Test_btKinematicCharacterController.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/Extras/Serialize/BulletWorldImporter/CMakeLists.txt
+  btMultiBodyWorldImporter.cpp
+  btBulletWorldImporter.cpp
+  btWorldImporter.cpp
+  Generating Code...
+  BulletWorldImporter.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Release\BulletWorldImporter.lib
