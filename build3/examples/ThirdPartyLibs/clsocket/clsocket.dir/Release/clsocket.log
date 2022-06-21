@@ -1,8 +1,0 @@
-﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/examples/ThirdPartyLibs/clsocket/CMakeLists.txt
-  SimpleSocket.cpp
-D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.cpp(895,6): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
-D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.cpp(904,8): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
-  ActiveSocket.cpp
-  PassiveSocket.cpp
-  Generating Code...
-  clsocket.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\lib\Release\clsocket.lib

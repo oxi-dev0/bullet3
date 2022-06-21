@@ -1,4 +1,0 @@
-﻿  Building Custom Rule D:/Git Projects/HysteriaDMG/RagdollApp/vendor/bullet3/examples/HelloWorld/CMakeLists.txt
-  HelloWorld.cpp
-LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
-  App_HelloWorld.vcxproj -> D:\Git Projects\HysteriaDMG\RagdollApp\vendor\bullet3\build3\examples\HelloWorld\Debug\App_HelloWorld.exe
